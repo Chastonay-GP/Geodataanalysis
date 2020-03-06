@@ -2,7 +2,6 @@
 # and Odd numbers in a List
 
 #define function first
-
 def even_function(mylist):
     even_count = 0
     for v in mylist:
