@@ -15,4 +15,4 @@ x = [10, 21, 4, 45, 66, 93, 1]
 # call function and insert variable
 t = even_function(x)
 
-print("Even numbers in the list: ", t)
+print("Even numbers in the list: {}" .format(t))
