@@ -1,5 +1,4 @@
-# Python program to count Even
-# and Odd numbers in a List
+# Python program to count Even numbers in a List
 
 # define function first
 def even_function(mylist):
